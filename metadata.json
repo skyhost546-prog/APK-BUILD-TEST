@@ -1,0 +1,6 @@
+{
+  "name": "Web2APK Creator",
+  "description": "Transformez vos sites web et code HTML en applications Android (APK) valides, projets Android Studio et PWA installables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
